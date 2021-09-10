@@ -4,32 +4,32 @@ packs:
     permission: forceresourcepacks.pack.game
     variants:
     - url: https://github.com/Claragraal/MythPack/raw/main/output/6_Vanity1.16.2+.zip
-      hash: b4f7b2fcab6b22ecdd9e3b6d09e8f166e2010d25
+      hash: a4a825327e0cb3925e7345f527a731205c68c796
       format: 6
       restricted: false
       permission: forceresourcepacks.pack.6
     - url: https://github.com/Claragraal/MythPack/raw/main/output/5_Vanity1.15+.zip
-      hash: 603f85660e00862f3db1a209323a10cbe80e5c1a
+      hash: b77be25673e02ae5941d10b1ca2e653f29ae5ea8
       format: 5
       restricted: false
       permission: forceresourcepacks.pack.5
     - url: https://github.com/Claragraal/MythPack/raw/main/output/4_Vanity1.13+.zip
-      hash: 1718f94518fa4c91a29134f35d7a32a004ec3c4d
+      hash: 37663e786dd483bd855934d959f92abbb6e8e0ad
       format: 4
       restricted: false
       permission: forceresourcepacks.pack.4
     - url: https://github.com/Claragraal/MythPack/raw/main/output/3_Vanity1.11+.zip
-      hash: ba9700dafc0149b0c7f6e1b7418106c2847c37c6
+      hash: 4c9cee4a46988f5b1f9143e0743fb87c608d217a
       format: 3
       restricted: false
       permission: forceresourcepacks.pack.3
     - url: https://github.com/Claragraal/MythPack/raw/main/output/2_Vanity1.9+.zip
-      hash: 8fc27e89ec222e9b980800c7943d6f2f224e324a
+      hash: 567a5f91abd5c232fbbc0f2e43381f929c16e3e2
       format: 2
       restricted: false
       permission: forceresourcepacks.pack.2
     - url: https://github.com/Claragraal/MythPack/raw/main/output/1_Vanity1.8+.zip
-      hash: 123997613575a92cebcc46b7ee1c92ac60f70046
+      hash: d9ca06fd27ca1e24f8b3b10256cd668d637202a2
       format: 1
       restricted: false
       permission: forceresourcepacks.pack.1
