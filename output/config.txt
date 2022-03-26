@@ -3,33 +3,43 @@ packs:
     restricted: false
     permission: forceresourcepacks.pack.game
     variants:
+    - url: https://github.com/Claragraal/MythPack/raw/main/output/8_Vanity1.18+.zip
+      hash: ffdd83a2e552723a9a005216d1125cfaa0b50e2f
+      format: 8
+      restricted: false
+      permission: forceresourcepacks.pack.8
+    - url: https://github.com/Claragraal/MythPack/raw/main/output/7_Vanity1.17+.zip
+      hash: 48a3f1a4b4417e7a35f278376c545dc0024b76ad
+      format: 7
+      restricted: false
+      permission: forceresourcepacks.pack.7
     - url: https://github.com/Claragraal/MythPack/raw/main/output/6_Vanity1.16.2+.zip
-      hash: e85674c51dbd9d461e8b323797363e394106106c
+      hash: 88ddbda7012862657588f01e76b90eb72c00e499
       format: 6
       restricted: false
       permission: forceresourcepacks.pack.6
     - url: https://github.com/Claragraal/MythPack/raw/main/output/5_Vanity1.15+.zip
-      hash: d2d6847c5a34236f1d65d0690dbe6220c4ad08c2
+      hash: 013e98102c61e7ebf420d59962b2078b442acf56
       format: 5
       restricted: false
       permission: forceresourcepacks.pack.5
     - url: https://github.com/Claragraal/MythPack/raw/main/output/4_Vanity1.13+.zip
-      hash: 50fb5d328e95e309866083af0d7b88285ca452b2
+      hash: 37de91d74bb1a4b552c158d7f5b4efd8423211fa
       format: 4
       restricted: false
       permission: forceresourcepacks.pack.4
     - url: https://github.com/Claragraal/MythPack/raw/main/output/3_Vanity1.11+.zip
-      hash: d6e7339e340c1b7b369ec6956f47b8b48de8dc43
+      hash: 595882936921185ab55df29b88710da6ef8397c7
       format: 3
       restricted: false
       permission: forceresourcepacks.pack.3
     - url: https://github.com/Claragraal/MythPack/raw/main/output/2_Vanity1.9+.zip
-      hash: 9dacac8e5e5a934e2813b61dc3f978125127dec6
+      hash: 38f3a8c5337b0ef7af64510e4247be12f04a66bd
       format: 2
       restricted: false
       permission: forceresourcepacks.pack.2
     - url: https://github.com/Claragraal/MythPack/raw/main/output/1_Vanity1.8+.zip
-      hash: 6866b2bc78eb73bfc3f150f20bc20d46d40e2f52
+      hash: c99c3a075c820e78eff96efa49fce79a2dbed727
       format: 1
       restricted: false
       permission: forceresourcepacks.pack.1
